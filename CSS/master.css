@@ -11,6 +11,7 @@ body{
   font-size: 100px;
   font-family: sans-serif;
   gap: 20px;
+  flex-direction: column;
 }
 
 h1{
@@ -22,4 +23,5 @@ h1:hover{
 
 p{
   font-size: 16px;
+  max-width: 50ch;
 }
